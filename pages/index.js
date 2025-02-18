@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Helena, é hora de dormir!!! Te amo!!! Até amanhã!!!</h1>
+    return <h1>Tâmaris, tenho muito orgulho de você! Vc é uma mulher incrível! Te amo! Estarei sempre ao seu lado! </h1>
 }
 
 export default Home;
